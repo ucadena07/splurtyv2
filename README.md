@@ -5,7 +5,8 @@ A database-powered quote generator with a mobile-first design, using the Ruby on
 * ruby '2.5.3'
 
 <img src="splurtyFront.png" alt="front page screenshot">
-<img src="splurtyform.png" alt="splurty form>
+
+<img src="splurtyform.png" alt="splurty form screenshot>
 
 
 
