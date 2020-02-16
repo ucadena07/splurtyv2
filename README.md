@@ -6,7 +6,7 @@ A database-powered quote generator with a mobile-first design, using the Ruby on
 
 <img src="splurtyFront.png" alt="front page screenshot">
 
-<img src="splurtyform.png" alt="splurty form screenshot>
+<img src="splurtyform.png" alt="splurty form screenshot">
 
 
 
